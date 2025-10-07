@@ -27,7 +27,7 @@
         };
 
         low {
-            if-layers = <1>;
+            if-layers = <0>;
             then-layer = <1>;
         };
     };
